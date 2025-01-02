@@ -62,7 +62,7 @@ MongoDB (Local)
 Clonar el repositorio a tu equipo local:
 
 ```bash
-git clone https://github.com/tu-usuario/mi-proyecto.git
+git clone https://github.com/GJGE04/task-manager.git  
 ```
 ### 2. Dependencias 
 
